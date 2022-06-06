@@ -15,9 +15,9 @@ An intuitive way to annotate sensitive attributes is through random selection.
 The randomly selected instances follow the same skewed distribution across sensitive groups, which still preserve the bias information in the classification model, as shown in the middle figure.
 
 <div align=center>
-<img width="250" height="170" src="https://anonymous.4open.science/r/APD-fairness-5232/figure/unfair_classification-cropped.png">
-<img width="250" height="170" src="https://anonymous.4open.science/r/APD-fairness-5232/figure/RS_debias-cropped.png">
-<img width="250" height="170" src="https://anonymous.4open.science/r/APD-fairness-5232/figure/Global_optimal_debias.png">
+<img width="250" height="170" src="https://github.com/guanchuwang/APOD-fairness/tree/main/figure/unfair_classification-cropped.png">
+<img width="250" height="170" src="https://github.com/guanchuwang/APOD-fairness/tree/main/figure/RS_debias-cropped.png">
+<img width="250" height="170" src="https://github.com/guanchuwang/APOD-fairness/tree/main/figure/Global_optimal_debias.png">
 </div>
 
 ### APOD Framework
@@ -31,7 +31,7 @@ After that, the instance will be moved from the unannotated dataset U ← U\\{(x
 
 
 <div align=center>
-<img width="400" height="270" src="https://anonymous.4open.science/r/APD-fairness-5232/figure/active_fairness-cropped.png">
+<img width="400" height="270" src="https://github.com/guanchuwang/APOD-fairness/tree/main/figure/active_fairness-cropped.png">
 </div>
 
 ### Dependency:
@@ -68,13 +68,13 @@ cd ../
 
 #### Accuracy-Fairness curve &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fairness versus Annotation ratio
 <div align=center>
-<img width="400" height="300" src="https://anonymous.4open.science/r/APD-fairness-5232/figure/ACC_vs_EOP_medical_SOTA.png">
-<img width="400" height="300" src="https://anonymous.4open.science/r/APD-fairness-5232/figure/EO_vs_label_medical.png">
+<img width="400" height="300" src="https://github.com/guanchuwang/APOD-fairness/tree/main/figure/ACC_vs_EOP_medical_SOTA.png">
+<img width="400" height="300" src="https://github.com/guanchuwang/APOD-fairness/tree/main/figure/EO_vs_label_medical.png">
 </div>
 
 #### Annotated instanced visualization
 <div align=center>
-<img width="400" height="300" src="https://anonymous.4open.science/r/APD-fairness-5232/figure/apd_labelset_show_Y.png">
-<img width="400" height="300" src="https://anonymous.4open.science/r/APD-fairness-5232/figure/apd_labelset_show_Z.png">
+<img width="400" height="300" src="https://github.com/guanchuwang/APOD-fairness/tree/main/figure/apd_labelset_show_Y.png">
+<img width="400" height="300" src="https://github.com/guanchuwang/APOD-fairness/tree/main/figure/apd_labelset_show_Z.png">
 </div>
 
