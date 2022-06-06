@@ -1,0 +1,1 @@
+python main_fal.py --hype adult_preprocess_fal.json
