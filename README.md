@@ -15,9 +15,9 @@ An intuitive way to annotate sensitive attributes is through random selection.
 The randomly selected instances follow the same skewed distribution across sensitive groups, which still preserve the bias information in the classification model, as shown in the middle figure.
 
 <div align=center>
-<img width="250" height="170" src="https://github.com/guanchuwang/APOD-fairness/blob/main/figure/unfair_classification-cropped.png">
-<img width="250" height="170" src="https://github.com/guanchuwang/APOD-fairness/blob/main/figure/RS_debias-cropped.png">
-<img width="250" height="170" src="https://github.com/guanchuwang/APOD-fairness/blob/main/figure/Global_optimal_debias.png">
+<img width="250" height="170" src="https://anonymous.4open.science/r/APOD-fairness-4C02/figure/unfair_classification-cropped.png">
+<img width="250" height="170" src="https://anonymous.4open.science/r/APOD-fairness-4C02/figure/RS_debias-cropped.png">
+<img width="250" height="170" src="https://anonymous.4open.science/r/APOD-fairness-4C02/figure/Global_optimal_debias.png">
 </div>
 
 ### APOD Framework
@@ -31,7 +31,7 @@ After that, the instance will be moved from the unannotated dataset U ← U\\{(x
 
 
 <div align=center>
-<img width="400" height="270" src="https://github.com/guanchuwang/APOD-fairness/blob/main/figure/active_fairness-cropped.png">
+<img width="400" height="270" src="https://anonymous.4open.science/r/APOD-fairness-4C02/figure/active_fairness-cropped.png">
 </div>
 
 
