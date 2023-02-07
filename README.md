@@ -69,22 +69,22 @@ cd ../
 
 #### Accuracy-Fairness curve  
 <div align=left>
-<img width="400" height="300" src="https://anonymous.4open.science/r/APOD-fairness-4C02/figure/ACC_vs_EOP_medical_SOTA.png">
+<img width="266" height="200" src="https://anonymous.4open.science/r/APOD-fairness-4C02/figure/ACC_vs_EOP_medical_SOTA.png">
 </div>
 
 #### Effectiveness of Active Sampling
 <div align=left>
-<img width="400" height="300" src="https://anonymous.4open.science/r/APOD-fairness-4C02/figure/ACC_vs_EOP_medical_AL.png">
+<img width="266" height="200" src="https://anonymous.4open.science/r/APOD-fairness-4C02/figure/ACC_vs_EOP_medical_AL.png">
 </div>
 
 #### Fairness versus Annotation ratio
 <div align=left>
-<img width="400" height="300" src="https://anonymous.4open.science/r/APOD-fairness-4C02/figure/EO_vs_label_medical.png">
+<img width="266" height="200" src="https://anonymous.4open.science/r/APOD-fairness-4C02/figure/EO_vs_label_medical.png">
 </div>
 
 #### Annotated instanced visualization
 <div align=left>
-<img width="400" height="300" src="https://anonymous.4open.science/r/APOD-fairness-4C02/figure/apd_labelset_show_Y.png">
-<img width="400" height="300" src="https://anonymous.4open.science/r/APOD-fairness-4C02/figure/apd_labelset_show_Z.png">
+<img width="266" height="200" src="https://anonymous.4open.science/r/APOD-fairness-4C02/figure/apd_labelset_show_Y.png">
+<img width="266" height="200" src="https://anonymous.4open.science/r/APOD-fairness-4C02/figure/apd_labelset_show_Z.png">
 </div>
 
